@@ -4,7 +4,7 @@
 
 ### Analista Programador | Especialista en .NET
 
-<img src="[https://raw.githubusercontent.com/achin507/achin507/main/profile.jpg](https://i.pinimg.com/originals/85/53/5e/85535e2d471e0f036ae4492327581c3e.jpg)" alt="Alexander Profile" width="200" style="border-radius: 50%;" />
+<img src="https://i.pinimg.com/originals/85/53/5e/85535e2d471e0f036ae4492327581c3e.jpg" alt="Alexander Profile" width="200" style="border-radius: 50%;" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-chin-hern%C3%A1ndez/)
 [![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dafermaster5@gmail.com)
